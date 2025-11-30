@@ -1,6 +1,6 @@
 👋 Hi there 
 
-    I'm Moon Napoliane, a developer who loves crafting clean, functional, and modern web experiences.
+    I'm Napoliane, a developer who loves crafting clean, functional, and modern web experiences.
     I mainly work with Python,JavaScript, React,Next js, TypeScript,Pine,Supabase,Mongo DB and Tailwind,
     and I enjoy bringing ideas to life through simple, effective interfaces.
     
