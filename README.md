@@ -1,7 +1,7 @@
 👋 Hi there 
 
     I'm Moon Napoliane, a developer who loves crafting clean, functional, and modern web experiences.
-    I mainly work with Python,JavaScript, React, TypeScript,Pinescript,Supabase,Mongo DB and Tailwind,
+    I mainly work with Python,JavaScript, React,Next js, TypeScript,Pinescript,Supabase,Mongo DB and Tailwind,
     and I enjoy bringing ideas to life through simple, effective interfaces.
     
     I also explore UI/UX concepts and like experimenting with automation, APIs, and small tools that solve real-world problems.
@@ -11,7 +11,7 @@
 
 🛠️ Tools & Tech
 
-    Python,JavaScript, TypeScript, React, Tailwind,Supabase, Mongo DB,Pine script
+    Python,JavaScript, TypeScript, React,Next js, Tailwind,Supabase, Mongo DB,Pine script
     
     API integrations & automation
     
