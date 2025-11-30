@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Hi there 
 
     I'm Moon Napoliane, a developer who loves crafting clean, functional, and modern web experiences.
     I mainly work with Python,JavaScript, React, TypeScript,Pinescript,Supabase,Mongo DB and Tailwind,
@@ -9,7 +9,7 @@
 
 
 
-Tools & Tech
+🛠️ Tools & Tech
 
     Python,JavaScript, TypeScript, React, Tailwind,Supabase, Mongo DB,Pine script
     
@@ -19,7 +19,7 @@ Tools & Tech
 
 
 
-A Bit About Me
+🌟 A Bit About Me
 
     📈 I’m a forex trader
 
@@ -30,3 +30,7 @@ A Bit About Me
     🌱 I enjoy learning new tools and improving my skills
     
     🧩 I like building things that are simple, useful, and easy to understand
+
+📫 Contact
+
+    Email: Lianedev@outlook.com  
